@@ -6,10 +6,12 @@ Dieser Repo gibt es um herauszufinden ob es möglich ist um Voraussagen zu mache
 
 Für dieses Projekt werden die volgenden Bibliotheken gebraucht:
 
-- requests
 - beautifulsoup4
-- records
 - bottle
+- dateparser
+- pygal
+- records
+- requests
 
 Nicht alle dieser Biblitheken sind gerade schon im Einsatz.
 
@@ -21,4 +23,3 @@ Jetzt macht es nocht nichts, aber in die Zukünft ist das Plann:
 - Fülle den Datenbank
 - Mache mögliche Voraussagen
 - Zeige die Voraussagen
-
