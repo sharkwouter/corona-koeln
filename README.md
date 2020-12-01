@@ -2,7 +2,7 @@
 
 Dieser Repo gibt es um herauszufinden ob es möglich ist um Voraussagen zu machen über den Coronazahlen in Köln. Es ist nur ein Experiment.
 
-## Libraries
+## Bibliotheken
 
 Für dieses Projekt werden die volgenden Bibliotheken gebraucht:
 
